@@ -1,10 +1,10 @@
-package com.mbtisheetspring.demo;
+package com.sheet.sheet;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MbtiSheetSpringApplicationTests {
+class SheetApplicationTests {
 
 	@Test
 	void contextLoads() {
